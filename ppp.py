@@ -32,4 +32,8 @@ for i in range(len(ar)):
             like_post.append(ci)
 
 for i in sorted(like_post):
+    # print(i)
     print(i)
+
+       
+
