@@ -33,7 +33,7 @@ for i in range(len(ar)):
 
 for i in sorted(like_post):
     # print(i)
-    print(i)
+    # print(i)
 
        
 
